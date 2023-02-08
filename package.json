@@ -1,0 +1,23 @@
+{
+  "name": "dfac",
+  "version": "1.0.0",
+  "description": "Ferramenta para orquestrar as configurações com DF como Código",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Serrabits/DFaC.git"
+  },
+  "keywords": [
+    "DreamFactory",
+    "IaC"
+  ],
+  "author": "Serrabits Tecnologia LTDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serrabits/DFaC/issues"
+  },
+  "homepage": "https://github.com/Serrabits/DFaC#readme"
+}
